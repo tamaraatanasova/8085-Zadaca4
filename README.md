@@ -10,3 +10,5 @@ void main()
  x[i]=4*y[i];
  }
 } 
+
+![Screenshot (1)](https://github.com/tamaraatanasova/8085-Zadaca4/blob/main/image.png)
